@@ -6,7 +6,7 @@
 
 **A mérést végző neve:** Tomolya Milán  
 **A mérés tárgya:** Bitsebesség vs jelminőség mérés
-**A mérés száma:** 3. mérés  
+**A mérés száma:** 5. mérés  
 **A mérés dátuma:** 2024. 12. 04.    
 **A mérést vezette:** Sándor Péter  
 
