@@ -102,16 +102,16 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **570MHz Mért Képek**
-    <img src="(https://github.com/user-attachments/assets/a0a380a3-13a7-40fc-bab6-cd4c6ebdf499)"\>
-    <img src="(https://github.com/user-attachments/assets/4031b050-d9d9-4140-86ce-e488061c202a)"\>
-    <img src="(https://github.com/user-attachments/assets/4d533270-c11e-4f81-9f48-58cef537f247)"\>
+    <img src="(https://github.com/user-attachments/assets/a0a380a3-13a7-40fc-bab6-cd4c6ebdf499)">
+    <img src="(https://github.com/user-attachments/assets/4031b050-d9d9-4140-86ce-e488061c202a)">
+    <img src="(https://github.com/user-attachments/assets/4d533270-c11e-4f81-9f48-58cef537f247)">
 
 ---
 
     **706MHz Mért Képek**
-    <img src="https://github.com/user-attachments/assets/8ff1abfb-19f6-4529-8695-d275b1e307ea"\>
-    <img src="https://github.com/user-attachments/assets/0e201d9f-eb6b-453b-bbca-3dd23e4bc975"\>
-    <img src="https://github.com/user-attachments/assets/f8fa9f00-1f2d-46ad-b268-c07b11b26a48"\>
+    <img src="https://github.com/user-attachments/assets/8ff1abfb-19f6-4529-8695-d275b1e307ea">
+    <img src="https://github.com/user-attachments/assets/0e201d9f-eb6b-453b-bbca-3dd23e4bc975">
+    <img src="https://github.com/user-attachments/assets/f8fa9f00-1f2d-46ad-b268-c07b11b26a48">
 
 ---
 
