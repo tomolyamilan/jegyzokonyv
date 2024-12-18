@@ -122,7 +122,9 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ## 10. FlashHD C-48 Képek:
 <details>
     <summary>Kattins a részletekért</summary>
+![31](https://github.com/user-attachments/assets/0e1675f6-e574-486e-8932-0b6deb1fbff0)
 
+<img src="https://github.com/user-attachments/assets/5f2eea28-24ee-43ce-958b-3806598ec564"\>
 
 ---
 
