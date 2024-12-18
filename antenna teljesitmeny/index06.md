@@ -81,16 +81,16 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **570MHz Mért Képek**
-<img src="https://github.com/user-attachments/assets/61b8ac2c-7cf2-4c3d-9b05-a9a9657c92b9)">
-<img src="https://github.com/user-attachments/assets/2b446236-724a-46ef-a85c-fb197d1036c5)">
-<img src="https://github.com/user-attachments/assets/1742ecf2-d20a-4033-ae91-a994e07a19a0)">
+<img src="https://github.com/user-attachments/assets/61b8ac2c-7cf2-4c3d-9b05-a9a9657c92b9">
+<img src="https://github.com/user-attachments/assets/2b446236-724a-46ef-a85c-fb197d1036c5">
+<img src="https://github.com/user-attachments/assets/1742ecf2-d20a-4033-ae91-a994e07a19a0">
 
 ---
 
     **706MHz Mért Képek**
 <img src="https://github.com/user-attachments/assets/8fce1105-6e2a-4665-ab82-fac467701928">
-<img src="https://github.com/user-attachments/assets/7b33fcb3-3745-48f7-ae25-5ccb4dfdb649)">
-<img src="https://github.com/user-attachments/assets/b1b7644e-dd1b-46a0-a76b-7c62feaf9b9a)">
+<img src="https://github.com/user-attachments/assets/7b33fcb3-3745-48f7-ae25-5ccb4dfdb649">
+<img src="https://github.com/user-attachments/assets/b1b7644e-dd1b-46a0-a76b-7c62feaf9b9a">
 
 ---
 
@@ -105,9 +105,9 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **570MHz Mért Képek**
-<img src="(https://github.com/user-attachments/assets/a0a380a3-13a7-40fc-bab6-cd4c6ebdf499)">
-<img src="(https://github.com/user-attachments/assets/4031b050-d9d9-4140-86ce-e488061c202a)">
-<img src="(https://github.com/user-attachments/assets/4d533270-c11e-4f81-9f48-58cef537f247)">
+<img src="https://github.com/user-attachments/assets/a0a380a3-13a7-40fc-bab6-cd4c6ebdf499">
+<img src="https://github.com/user-attachments/assets/4031b050-d9d9-4140-86ce-e488061c202a">
+<img src="https://github.com/user-attachments/assets/4d533270-c11e-4f81-9f48-58cef537f247">
 
 ---
 
@@ -136,9 +136,9 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **706MHz Mért Képek**
-<img src="https://github.com/user-attachments/assets/942e4546-e47b-42d7-940b-ebe59e8c1614"\>
-<img src="https://github.com/user-attachments/assets/f98108b9-930d-4984-bcbc-cc0703b251b3"\>
-<img src="https://github.com/user-attachments/assets/438c0743-cd8f-4230-9516-ddf881088ac5"\>
+<img src="https://github.com/user-attachments/assets/942e4546-e47b-42d7-940b-ebe59e8c1614">
+<img src="https://github.com/user-attachments/assets/f98108b9-930d-4984-bcbc-cc0703b251b3">
+<img src="https://github.com/user-attachments/assets/438c0743-cd8f-4230-9516-ddf881088ac5">
 
 ---
 
