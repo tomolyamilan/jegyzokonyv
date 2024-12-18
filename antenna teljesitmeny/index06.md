@@ -109,9 +109,9 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **706MHz Mért Képek**
-    <img src="(https://github.com/user-attachments/assets/8ff1abfb-19f6-4529-8695-d275b1e307ea)"\>
-    <img src="(https://github.com/user-attachments/assets/0e201d9f-eb6b-453b-bbca-3dd23e4bc975)"\>
-    <img src="(https://github.com/user-attachments/assets/f8fa9f00-1f2d-46ad-b268-c07b11b26a48)"\>
+    <img src="https://github.com/user-attachments/assets/8ff1abfb-19f6-4529-8695-d275b1e307ea"\>
+    <img src="https://github.com/user-attachments/assets/0e201d9f-eb6b-453b-bbca-3dd23e4bc975"\>
+    <img src="https://github.com/user-attachments/assets/f8fa9f00-1f2d-46ad-b268-c07b11b26a48"\>
 
 ---
 
